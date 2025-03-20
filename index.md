@@ -1,5 +1,3 @@
-# Privacy Policy for EksiGrup Extension
-
 ## Information Collection and Use
 
 The EksiGrup extension collects and stores the following information locally on your device:
