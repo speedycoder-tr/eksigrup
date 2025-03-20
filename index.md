@@ -1,8 +1,3 @@
----
-title: "Privacy Policy for EksiGrup Extension"
-date: 2025-03-20
----
-
 # Privacy Policy for EksiGrup Extension
 
 ## Information Collection and Use
